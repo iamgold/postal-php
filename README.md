@@ -1,13 +1,13 @@
 # Postal for PHP
 
-This library is forked by postalserver/postal-php, it helps you send e-mails through [Postal](https://github.com/atech/postal) in PHP 7.0 and above.
+This library is forked by postalserver/postal-php, it helps you send e-mails through [Postal](https://github.com/atech/postal) in PHP 8.0 and above.
 
 ## Installation
 
 Install the library using [Composer](https://getcomposer.org/):
 
 ```
-$ composer require postal/postal
+$ composer require iamgold/postal
 ```
 
 ## Usage
