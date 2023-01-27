@@ -1,5 +1,5 @@
 {
-    "name": "cyntelli/postal",
+    "name": "iamgold/postal",
     "description": "Postal for PHP library.",
     "keywords": ["postal", "mail"],
     "license": "MIT",
@@ -16,7 +16,7 @@
     ],
     "type": "library",
     "require": {
-        "php": ">=7.0",
+        "php": ">=8.0",
         "rmccue/requests": "^2.0"
     },
     "autoload": {
